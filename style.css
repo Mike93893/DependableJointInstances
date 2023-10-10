@@ -1,8 +1,8 @@
 html {
   height: 100%;
   width: 100%;
-  background-color : Blue
-.column {
+  background-color : blue;
+  .column {
   float: left;
   width: 50%
   content: "";
